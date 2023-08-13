@@ -1,0 +1,69 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Space Home&amp;Living",
+    "description": "",
+    "home_page_url": "https://spacehomelivingsg.github.io/spacehomelivingsg",
+    "feed_url": "https://spacehomelivingsg.github.io/spacehomelivingsg/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Space Home&amp;Living"
+    },
+    "items": [
+        {
+            "id": "https://spacehomelivingsg.github.io/spacehomelivingsg/customize-your-smart-home.html",
+            "url": "https://spacehomelivingsg.github.io/spacehomelivingsg/customize-your-smart-home.html",
+            "title": "Customize your smart home",
+            "image": "https://spacehomelivingsg.github.io/spacehomelivingsg/media/posts/4/192shots_so.png",
+            "author": {
+                "name": "Space Home&amp;Living"
+            },
+            "tags": [
+                   "Singapore local"
+            ],
+            "date_published": "2023-08-13T15:38:30+08:00",
+            "date_modified": "2023-08-13T15:40:18+08:00"
+        },
+        {
+            "id": "https://spacehomelivingsg.github.io/spacehomelivingsg/door-to-door-installation-service.html",
+            "url": "https://spacehomelivingsg.github.io/spacehomelivingsg/door-to-door-installation-service.html",
+            "title": "Door-to-door installation service",
+            "image": "https://spacehomelivingsg.github.io/spacehomelivingsg/media/posts/3/lijianfei_Singapore_professional_youthful_energetic_curtain_ins_02c541f4-7f4a-4945-96da-393d4612df97.png",
+            "author": {
+                "name": "Space Home&amp;Living"
+            },
+            "tags": [
+                   "Singapore local"
+            ],
+            "date_published": "2023-08-13T13:06:25+08:00",
+            "date_modified": "2023-08-13T15:15:38+08:00"
+        },
+        {
+            "id": "https://spacehomelivingsg.github.io/spacehomelivingsg/your-automated-curtains-and-binds-specialist.html",
+            "url": "https://spacehomelivingsg.github.io/spacehomelivingsg/your-automated-curtains-and-binds-specialist.html",
+            "title": "Your Automated Curtains &amp; Binds Specialist",
+            "image": "https://spacehomelivingsg.github.io/spacehomelivingsg/media/posts/2/lijianfei_Local_Singapore_smart_curtain_track_roller_blinds_dif_62cb2735-221f-4310-9054-1fb90bb92daa.png",
+            "author": {
+                "name": "Space Home&amp;Living"
+            },
+            "tags": [
+                   "Singapore local"
+            ],
+            "date_published": "2023-08-13T12:57:03+08:00",
+            "date_modified": "2023-08-13T13:02:46+08:00"
+        },
+        {
+            "id": "https://spacehomelivingsg.github.io/spacehomelivingsg/arrange-an-appointment.html",
+            "url": "https://spacehomelivingsg.github.io/spacehomelivingsg/arrange-an-appointment.html",
+            "title": "Arrange an Appointment",
+            "summary": "Opening Hours Weekdays: 11 AM - 7 PM Weekends: 10 AM - 5 PM We are happy to help in any query +65 8022&hellip;",
+            "content_html": "<h3>Opening Hours</h3>\n<p class=\"big\">Weekdays: 11 AM - 7 PM<br>Weekends: 10 AM - 5 PM</p>\n<h3>Any questions?</h3>\n<p class=\"big\">We are happy to help in any query<br><strong><a href=\"tel:+6580229876\" xt-marked=\"ok\">+65 8022 9876</a></strong></p>\n<h3>Troubleshoot hotline:</h3>\n<p class=\"big\"><strong><a href=\"https://wa.me/6588948528\" xt-marked=\"ok\">+65 8894 8528</a></strong><br><small>(WhatsApp message only)</small></p>\n<h3>Visit our showroom at</h3>\n<p class=\"big\"><a class=\"link_to_map\" href=\"https://www.google.com/maps?ll=1.333245,103.894142&amp;z=18&amp;t=m&amp;hl=en-GB&amp;gl=US&amp;mapclient=apiv3&amp;cid=12093902485407777657\" target=\"_blank\" xt-marked=\"ok\" rel=\"noopener\">33 Ubi Ave 3, #01-28 Vertex,<br>Singapore 408868</a></p>",
+            "author": {
+                "name": "Space Home&amp;Living"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-13T12:39:48+08:00",
+            "date_modified": "2023-08-13T15:44:04+08:00"
+        }
+    ]
+}

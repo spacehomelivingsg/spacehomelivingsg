@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://spacehomelivingsg.github.io/spacehomelivingsg/sitemap.xml

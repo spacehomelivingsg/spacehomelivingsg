@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Space Home&amp;Living</title>
+    <link href="https://spacehomelivingsg.github.io/spacehomelivingsg/feed.xml" rel="self" />
+    <link href="https://spacehomelivingsg.github.io/spacehomelivingsg" />
+    <updated>2023-08-13T15:44:04+08:00</updated>
+    <author>
+        <name>Space Home&amp;Living</name>
+    </author>
+    <id>https://spacehomelivingsg.github.io/spacehomelivingsg</id>
+
+    <entry>
+        <title>Customize your smart home</title>
+        <author>
+            <name>Space Home&amp;Living</name>
+        </author>
+        <link href="https://spacehomelivingsg.github.io/spacehomelivingsg/customize-your-smart-home.html"/>
+        <id>https://spacehomelivingsg.github.io/spacehomelivingsg/customize-your-smart-home.html</id>
+        <media:content url="https://spacehomelivingsg.github.io/spacehomelivingsg/media/posts/4/192shots_so.png" medium="image" />
+            <category term="Singapore local"/>
+
+        <updated>2023-08-13T15:40:18+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Door-to-door installation service</title>
+        <author>
+            <name>Space Home&amp;Living</name>
+        </author>
+        <link href="https://spacehomelivingsg.github.io/spacehomelivingsg/door-to-door-installation-service.html"/>
+        <id>https://spacehomelivingsg.github.io/spacehomelivingsg/door-to-door-installation-service.html</id>
+        <media:content url="https://spacehomelivingsg.github.io/spacehomelivingsg/media/posts/3/lijianfei_Singapore_professional_youthful_energetic_curtain_ins_02c541f4-7f4a-4945-96da-393d4612df97.png" medium="image" />
+            <category term="Singapore local"/>
+
+        <updated>2023-08-13T15:15:38+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Your Automated Curtains &amp; Binds Specialist</title>
+        <author>
+            <name>Space Home&amp;Living</name>
+        </author>
+        <link href="https://spacehomelivingsg.github.io/spacehomelivingsg/your-automated-curtains-and-binds-specialist.html"/>
+        <id>https://spacehomelivingsg.github.io/spacehomelivingsg/your-automated-curtains-and-binds-specialist.html</id>
+        <media:content url="https://spacehomelivingsg.github.io/spacehomelivingsg/media/posts/2/lijianfei_Local_Singapore_smart_curtain_track_roller_blinds_dif_62cb2735-221f-4310-9054-1fb90bb92daa.png" medium="image" />
+            <category term="Singapore local"/>
+
+        <updated>2023-08-13T13:02:46+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Arrange an Appointment</title>
+        <author>
+            <name>Space Home&amp;Living</name>
+        </author>
+        <link href="https://spacehomelivingsg.github.io/spacehomelivingsg/arrange-an-appointment.html"/>
+        <id>https://spacehomelivingsg.github.io/spacehomelivingsg/arrange-an-appointment.html</id>
+
+        <updated>2023-08-13T15:44:04+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Opening Hours Weekdays: 11 AM - 7 PM Weekends: 10 AM - 5 PM We are happy to help in any query +65 8022&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>Opening Hours</h3>
+<p class="big">Weekdays: 11 AM - 7 PM<br>Weekends: 10 AM - 5 PM</p>
+<h3>Any questions?</h3>
+<p class="big">We are happy to help in any query<br><strong><a href="tel:+6580229876" xt-marked="ok">+65 8022 9876</a></strong></p>
+<h3>Troubleshoot hotline:</h3>
+<p class="big"><strong><a href="https://wa.me/6588948528" xt-marked="ok">+65 8894 8528</a></strong><br><small>(WhatsApp message only)</small></p>
+<h3>Visit our showroom at</h3>
+<p class="big"><a class="link_to_map" href="https://www.google.com/maps?ll=1.333245,103.894142&amp;z=18&amp;t=m&amp;hl=en-GB&amp;gl=US&amp;mapclient=apiv3&amp;cid=12093902485407777657" target="_blank" xt-marked="ok" rel="noopener">33 Ubi Ave 3, #01-28 Vertex,<br>Singapore 408868</a></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
