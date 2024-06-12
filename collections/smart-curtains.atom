@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://spacehomeliving.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://spacehomeliving.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://spacehomeliving.com/collections/smart-curtains.atom"/>
+  <title>SpaceHomeLiving</title>
+  <updated>2024-03-19T18:00:58+08:00</updated>
+  <author>
+    <name>SpaceHomeLiving</name>
+  </author>
+  <entry>
+    <id>https://spacehomeliving.com/products/9169733976374</id>
+    <published>2024-03-19T18:00:58+08:00</published>
+    <updated>2024-03-19T18:00:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://spacehomeliving.com/products/smart-automated-motorised-roller-blinds-2"/>
+    <title>Smart Automated Motorised Roller Blinds</title>
+    <s:type>roller blinds</s:type>
+    <s:vendor>SpaceHomeLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4779/6534/files/IMG_7042_1.jpg?v=1710842905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceHomeLiving<br>
+        <strong>Type: </strong>roller blinds<br>
+        <strong>Price: </strong>
+            63.00 - 320.00
+            <a href="https://spacehomeliving.com/products/smart-automated-motorised-roller-blinds-2">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Roller Blinds are both functional and visually appealing to many homeowners and companies. They offer superior protection against the sun's glare and seamlessly complement any interior design.<br data-mce-fragment="1"><br data-mce-fragment="1">With Tuya app integration and compatibility with popular virtual assistants, including Google Home, Alexa, MiHome, and Siri, these blinds add a modern touch to any space. Furthermore, they provide 100% privacy and precise light control, making them ideal for both residential and commercial use.</span></p>
+<p><span><strong>MOTOR<br></strong>Transform your home with ease and accuracy with multiple motor options, such as DOOYA, A-OK and Somfy. With esteemed management and global safety certifications, trust its exceptional and dependable operation. Seamlessly manage your blinds and shades with the press of a button, streamlining your daily tasks. Includes 1 year motor warranty.</span></p>
+<p><span><strong>Feel free to contact us for any enquiries below / for no obligation quotes.</strong></span></p>
+<h4></h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rollerblinds</s:tag>
+    <s:tag>smartcurtain</s:tag>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169733976374</id>
+      <title>Fabric A $/Sqm</title>
+      <s:price currency="SGD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169733976374</id>
+      <title>Fabric B $/Sqm</title>
+      <s:price currency="SGD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169733976374</id>
+      <title>Fabric C $/Sqm</title>
+      <s:price currency="SGD">63.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169733976374</id>
+      <title>Fabric D $/Sqm</title>
+      <s:price currency="SGD">70.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169733976374</id>
+      <title>Fabric E $/Sqm</title>
+      <s:price currency="SGD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169733976374</id>
+      <title>Tuya Cordless Motor</title>
+      <s:price currency="SGD">242.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169733976374</id>
+      <title>Remote Cordless Motor</title>
+      <s:price currency="SGD">285.12</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169733976374</id>
+      <title>Aqara Smart Motor</title>
+      <s:price currency="SGD">320.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spacehomeliving.com/products/9169675911478</id>
+    <published>2024-03-19T16:36:58+08:00</published>
+    <updated>2024-03-19T16:36:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://spacehomeliving.com/products/smart-motorised-automated-electric-curtain-track"/>
+    <title>Smart Motorised Automated Electric Curtain Track</title>
+    <s:type>curtaintrack</s:type>
+    <s:vendor>SpaceHomeLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4779/6534/files/sg-11134207-7rcex-ltbz2uh1beln91.jpg?v=1712651458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceHomeLiving<br>
+        <strong>Type: </strong>curtaintrack<br>
+        <strong>Price: </strong>
+            174.60 - 727.50
+            <a href="https://spacehomeliving.com/products/smart-motorised-automated-electric-curtain-track">(40 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Upgrade your space with our Smart Motorised Automated Electric Curtain Track. Featuring a high-quality motor for smooth and silent operation, it can be customized to fit your exact specifications. Choose between Dooya or Aqara smart motor options for easy integration with Google, Alexa, or Apple Homekit. Elevate your space with sophistication and intelligent technology.<br><span data-mce-fragment="1"></span><span data-mce-fragment="1"></span><br><strong>MOTOR<br></strong>Transform your home with ease and accuracy with multiple motor options, such as DOOYA, A-OK and Somfy. With esteemed management and global safety certifications, trust its exceptional and dependable operation. Seamlessly manage your blinds and shades with the press of a button, streamlining your daily tasks. Plus, enjoy a 1-year warranty for added peace of mind. </p>
+<p><strong>Feel free to contact us for any enquiries below / for no obligation quotes.</strong></p>
+<h4><span></span></h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>curtaintrack</s:tag>
+    <s:tag>smartcurtain</s:tag>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>3m Track with Installation / Tuya Smart + Remote</title>
+      <s:price currency="SGD">426.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>3m Track with Installation / Aquara Zigbee Wired</title>
+      <s:price currency="SGD">504.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>3m Track with Installation / Aquara B1 Cordless</title>
+      <s:price currency="SGD">552.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>3m Track with Installation / Yeelight A1</title>
+      <s:price currency="SGD">465.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>3m Track with Installation / Without Motor</title>
+      <s:price currency="SGD">271.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>4m Track with Installation / Tuya Smart + Remote</title>
+      <s:price currency="SGD">485.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>4m Track with Installation / Aquara Zigbee Wired</title>
+      <s:price currency="SGD">562.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>4m Track with Installation / Aquara B1 Cordless</title>
+      <s:price currency="SGD">611.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>4m Track with Installation / Yeelight A1</title>
+      <s:price currency="SGD">523.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>4m Track with Installation / Without Motor</title>
+      <s:price currency="SGD">329.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>5m Track with Installation / Tuya Smart + Remote</title>
+      <s:price currency="SGD">543.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>5m Track with Installation / Aquara Zigbee Wired</title>
+      <s:price currency="SGD">620.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>5m Track with Installation / Aquara B1 Cordless</title>
+      <s:price currency="SGD">669.30</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>5m Track with Installation / Yeelight A1</title>
+      <s:price currency="SGD">582.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>5m Track with Installation / Without Motor</title>
+      <s:price currency="SGD">388.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>6m Track with Installation / Tuya Smart + Remote</title>
+      <s:price currency="SGD">601.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>6m Track with Installation / Aquara Zigbee Wired</title>
+      <s:price currency="SGD">679.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>6m Track with Installation / Aquara B1 Cordless</title>
+      <s:price currency="SGD">727.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>6m Track with Installation / Yeelight A1</title>
+      <s:price currency="SGD">640.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>6m Track with Installation / Without Motor</title>
+      <s:price currency="SGD">446.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>3m Track without Installation / Tuya Smart + Remote</title>
+      <s:price currency="SGD">329.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>3m Track without Installation / Aquara Zigbee Wired</title>
+      <s:price currency="SGD">407.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>3m Track without Installation / Aquara B1 Cordless</title>
+      <s:price currency="SGD">455.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>3m Track without Installation / Yeelight A1</title>
+      <s:price currency="SGD">368.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>3m Track without Installation / Without Motor</title>
+      <s:price currency="SGD">174.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>4m Track without Installation / Tuya Smart + Remote</title>
+      <s:price currency="SGD">388.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>4m Track without Installation / Aquara Zigbee Wired</title>
+      <s:price currency="SGD">465.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>4m Track without Installation / Aquara B1 Cordless</title>
+      <s:price currency="SGD">514.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>4m Track without Installation / Yeelight A1</title>
+      <s:price currency="SGD">426.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>4m Track without Installation / Without Motor</title>
+      <s:price currency="SGD">232.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>5m Track without Installation / Tuya Smart + Remote</title>
+      <s:price currency="SGD">446.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>5m Track without Installation / Aquara Zigbee Wired</title>
+      <s:price currency="SGD">523.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>5m Track without Installation / Aquara B1 Cordless</title>
+      <s:price currency="SGD">572.30</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>5m Track without Installation / Yeelight A1</title>
+      <s:price currency="SGD">485.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>5m Track without Installation / Without Motor</title>
+      <s:price currency="SGD">291.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>6m Track without Installation / Tuya Smart + Remote</title>
+      <s:price currency="SGD">504.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>6m Track without Installation / Aquara Zigbee Wired</title>
+      <s:price currency="SGD">582.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>6m Track without Installation / Aquara B1 Cordless</title>
+      <s:price currency="SGD">630.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>6m Track without Installation / Yeelight A1</title>
+      <s:price currency="SGD">543.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <title>6m Track without Installation / Without Motor</title>
+      <s:price currency="SGD">349.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spacehomeliving.com/products/9160619229494</id>
+    <published>2024-03-14T15:50:07+08:00</published>
+    <updated>2024-03-14T15:50:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://spacehomeliving.com/products/smart-automated-venetian-blinds"/>
+    <title>Smart Automated Outdoor Zip Blinds</title>
+    <s:type>zipblind</s:type>
+    <s:vendor>SpaceHomeLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4779/6534/files/sg-11134207-7rcck-ltbz2uh176wb56.jpg?v=1712652488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceHomeLiving<br>
+        <strong>Type: </strong>zipblind<br>
+        <strong>Price: </strong>
+            197.80 - 776.00
+            <a href="https://spacehomeliving.com/products/smart-automated-venetian-blinds">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enhance your outdoor balcony or patio with practical and stylish Zip Blinds. These innovative blinds replace traditional outdoor blinds and offer superior protection from the sun, rain, and mosquitos. Conveniently controlled through Tuya app and compatible with virtual assistants like Google Home, Alexa, MiHome, and Siri, these blinds add a modern touch to any outdoor space.</p>
+<p><strong>MOTOR:<br></strong>Effortlessly enhance your home with Smart Automated Outdoor Zip Blinds featuring a reliable motor from DOOYA, A-OK, or Somfy. With top-notch management and safety certifications, enjoy seamless control and 5 years warranty. Simplify your routine with just a touch of a button.</p>
+<p><strong>MATERIALS:</strong><br><strong>1. Timber Wood (3.5cm / 5cm)</strong><br><strong>2. Aluminium</strong><br><br><strong>SCREEN MATERIAL</strong><br><strong>1. A4 Series Fabric </strong><span data-mce-fragment="1"><strong>Details: <em>(most popular)</em></strong><br>Composition : 30% Polyester + 70% PVC <br>UV Screen : Up to 95% <br>Weight/sqm : ~525g/sqm <br>Thickness : ~0.7mm <br>Color Options: White, Grey, Dark Grey, Black <br>Openness Factor : 5% , 3% ,1% </span></p>
+<p><strong>2. LS40-T820 (Blackout)</strong><span data-mce-fragment="1"><strong>Series Fabric Details:</strong> <br></span><span data-mce-fragment="1">Composition : 50% Polyester + 50% Blackout compound coating <br></span><span data-mce-fragment="1">Openness Factor : 0% (Blackout) <br>UV Screen : Up to 98% <br>Weight/sqm : ~420g/sqm <br>Thickness : ~0.65mm <br>Color Options: White, Beige, Grey, Black <br><br><strong>3. LS40- 816 Series Fabric Details:</strong> <br>Composition : 47% Polyester + 53% PVC <br>Openness Factor : 12% <br>UV Screen : Up to 88% <br>Weight/sqm : ~415g/sqm <br>Thickness : ~0.47mm <br>Color Options: White, Beige, Grey, Dark Grey <br><br><strong>4. LS40- 819 Series Fabric Details:</strong> <br>Composition : 47% Polyester + 53% PVC <br>Openness Factor : 5% <br>UV Screen : Up to 88% <br>Weight/sqm : ~415g/sqm <br>Thickness : ~0.47mm <br>Color Options: White, Beige <br><br><strong>5. GH Fibreglass 3% Openness Series Fabric Details:</strong> <br>Composition : 42% Fibreglass + 58% PVC <br>Openness Factor : 4% <br>UV Screen : Up to 96% <br>Weight/sqm : ~520g/sqm <br>Thickness : ~0.75mm <br>Color Options: Beige, Grey, Dark Grey, Black</span><br><br><span data-mce-fragment="1"><strong></strong></span><strong></strong></p>
+<p><span data-mce-fragment="1"><strong>Feel free to contact us for any enquiries below / for no obligation quotes.</strong></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>smartcurtain</s:tag>
+    <s:tag>zipblind</s:tag>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9160619229494</id>
+      <title>5% Openness $/Sqm</title>
+      <s:price currency="SGD">197.80</s:price>
+      <s:sku>100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9160619229494</id>
+      <title>3% Openness $/Sqm</title>
+      <s:price currency="SGD">215.00</s:price>
+      <s:sku>105</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9160619229494</id>
+      <title>1% Openness $/Sqm</title>
+      <s:price currency="SGD">220.40</s:price>
+      <s:sku>110</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9160619229494</id>
+      <title>Dooya Motor</title>
+      <s:price currency="SGD">388.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9160619229494</id>
+      <title>AOK Motor</title>
+      <s:price currency="SGD">504.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9160619229494</id>
+      <title>Somfy Motor</title>
+      <s:price currency="SGD">776.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spacehomeliving.com/products/9159013400886</id>
+    <published>2024-03-13T16:57:39+08:00</published>
+    <updated>2024-03-13T16:57:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://spacehomeliving.com/products/venetian-blinds"/>
+    <title>Smart Automated Venetian Blinds</title>
+    <s:type>venetian blind</s:type>
+    <s:vendor>SpaceHomeLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4779/6534/files/IMG_7052.jpg?v=1710320261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceHomeLiving<br>
+        <strong>Type: </strong>venetian blind<br>
+        <strong>Price: </strong>
+            108.00 - 288.00
+            <a href="https://spacehomeliving.com/products/venetian-blinds">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Elevate the aesthetic of your home with Venetian Blinds, also referred to as horizontal blinds, through the sleek and sophisticated finish that will never go out of style. Popular in Singapore, these blinds can be easily integrated into Tuya app and linked with popular virtual assistants like Google Home, Alexa, MiHome, Siri, and etc. to add a modern touch.<br></span><span data-mce-fragment="1"></span><br><strong>MOTOR<br></strong>Transform your home with ease and accuracy with multiple motor options, such as DOOYA, A-OK and Somfy. With esteemed management and global safety certifications, trust its exceptional and dependable operation. Seamlessly manage your blinds and shades with the press of a button, streamlining your daily tasks. Includes 1 year motor warranty.<strong><br></strong><span data-mce-fragment="1"></span></p>
+<p><span data-mce-fragment="1"><strong>MATERIALS:</strong><br>1. Timber Wood (3.5cm / 5cm)<br>2. PVC<br>3. Aluminium</span></p>
+<p><strong>Feel free to contact us for any enquiries below / for no obligation quotes.</strong></p>
+<h4><span></span></h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>smartcurtain</s:tag>
+    <s:tag>venetianblind</s:tag>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9159013400886</id>
+      <title>3.5cm Timber $/Sqm</title>
+      <s:price currency="SGD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9159013400886</id>
+      <title>3.5cm PVC $/Sqm</title>
+      <s:price currency="SGD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9159013400886</id>
+      <title>5cm Timber $/Sqm</title>
+      <s:price currency="SGD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9159013400886</id>
+      <title>5cm PVC $/Sqm</title>
+      <s:price currency="SGD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9159013400886</id>
+      <title>Dooya Motor</title>
+      <s:price currency="SGD">252.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9159013400886</id>
+      <title>AOK Tuya Motor</title>
+      <s:price currency="SGD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9159013400886</id>
+      <title>Installation</title>
+      <s:price currency="SGD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spacehomeliving.com/products/9158828949814</id>
+    <published>2024-03-13T15:12:29+08:00</published>
+    <updated>2024-03-13T15:12:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://spacehomeliving.com/products/zebra-blinds"/>
+    <title>Smart Automated Motorised Zebra Blinds</title>
+    <s:type>zebra blinds</s:type>
+    <s:vendor>SpaceHomeLiving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4779/6534/files/IMG_7039.jpg?v=1710313951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceHomeLiving<br>
+        <strong>Type: </strong>zebra blinds<br>
+        <strong>Price: </strong>
+            80.60 - 332.64
+            <a href="https://spacehomeliving.com/products/zebra-blinds">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Also known as Korean combi blinds, Zebra Blinds consist of two panels - a solid and a sheer one. This distinct structure allows for precise management of natural light in any space. These blinds can seamlessly connect to the Tuya app and sync with leading virtual assistants such as Google Home, Alexa, MiHome, Siri, and more, for a sleek and contemporary touch.</span><span></span></p>
+<p>Experience the ideal level of darkness with our Smart Automated Motorised Zebra Blinds, offering 60-85% blackout capabilities perfect for bedrooms and movie rooms. However, please note that our Zebra Blinds may have small gaps between the fabrics, preventing 100% blackout. For complete blackout, we recommend using a curtain track or roller blinds. <br><br><strong data-mce-fragment="1">MOTOR<br data-mce-fragment="1"></strong><span data-mce-fragment="1">Transform your home with ease and accuracy with multiple motor options, such as DOOYA, A-OK and Somfy. With esteemed management and global safety certifications, trust its exceptional and dependable operation. Seamlessly manage your blinds and shades with the press of a button, streamlining your daily tasks. Includes 1 year motor warranty.</span><br></p>
+<h4><strong>Feel free to contact us for any enquiries below / for no obligation quotes.</strong></h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>smartcurtain</s:tag>
+    <s:tag>zebrablinds</s:tag>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9158828949814</id>
+      <title>High % Coverage Fabric $/Sqm</title>
+      <s:price currency="SGD">93.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9158828949814</id>
+      <title>Low % Coverage Fabric $/Sqm</title>
+      <s:price currency="SGD">80.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9158828949814</id>
+      <title>Tuya Smart Motor</title>
+      <s:price currency="SGD">242.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9158828949814</id>
+      <title>Tuya Cordless Motor</title>
+      <s:price currency="SGD">285.12</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9158828949814</id>
+      <title>Remote Cordless Motor</title>
+      <s:price currency="SGD">230.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spacehomeliving.com/products/9158828949814</id>
+      <title>Aqara Smart Motor</title>
+      <s:price currency="SGD">332.64</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>
