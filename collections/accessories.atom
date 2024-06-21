@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>https://spacehomeliving.com/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://spacehomeliving.com/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="https://spacehomeliving.com/collections/accessories.atom"/>
+  <id>https://spacehomeliving.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://spacehomeliving.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://spacehomeliving.myshopify.com/collections/accessories.atom"/>
   <title>SpaceHomeLiving</title>
   <updated>2024-03-14T12:39:25+08:00</updated>
   <author>
     <name>SpaceHomeLiving</name>
   </author>
   <entry>
-    <id>https://spacehomeliving.com/products/9160406204726</id>
+    <id>https://spacehomeliving.myshopify.com/products/9160406204726</id>
     <published>2024-03-14T12:39:25+08:00</published>
     <updated>2024-03-14T12:39:25+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://spacehomeliving.com/products/dooya-remote-control"/>
+    <link rel="alternate" type="text/html" href="https://spacehomeliving.myshopify.com/products/dooya-remote-control"/>
     <title>Dooya Remote Control</title>
     <s:type>remotecontrol</s:type>
     <s:vendor>SpaceHomeLiving</s:vendor>
@@ -27,7 +27,7 @@
         <strong>Type: </strong>remotecontrol<br>
         <strong>Price: </strong>
             25.00 - 38.00
-            <a href="https://spacehomeliving.com/products/dooya-remote-control">(3 variants)</a>
+            <a href="https://spacehomeliving.myshopify.com/products/dooya-remote-control">(3 variants)</a>
       </p>
     </td>
   </tr>
@@ -41,21 +41,21 @@
     <s:tag>accessories</s:tag>
     <s:tag>remotecontrol</s:tag>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9160406204726</id>
+      <id>https://spacehomeliving.myshopify.com/products/9160406204726</id>
       <title>DC2700 Single Channel</title>
       <s:price currency="SGD">25.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9160406204726</id>
+      <id>https://spacehomeliving.myshopify.com/products/9160406204726</id>
       <title>DC2760 Duo Channel</title>
       <s:price currency="SGD">30.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9160406204726</id>
+      <id>https://spacehomeliving.myshopify.com/products/9160406204726</id>
       <title>DC2702 15 Channel</title>
       <s:price currency="SGD">38.00</s:price>
       <s:sku></s:sku>

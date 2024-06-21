@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>https://spacehomeliving.com/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://spacehomeliving.com/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="https://spacehomeliving.com/collections/frontpage.atom"/>
+  <id>https://spacehomeliving.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://spacehomeliving.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://spacehomeliving.myshopify.com/collections/frontpage.atom"/>
   <title>SpaceHomeLiving</title>
   <updated>2024-03-19T18:00:58+08:00</updated>
   <author>
     <name>SpaceHomeLiving</name>
   </author>
   <entry>
-    <id>https://spacehomeliving.com/products/9169733976374</id>
+    <id>https://spacehomeliving.myshopify.com/products/9169733976374</id>
     <published>2024-03-19T18:00:58+08:00</published>
     <updated>2024-03-19T18:00:58+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://spacehomeliving.com/products/smart-automated-motorised-roller-blinds-2"/>
+    <link rel="alternate" type="text/html" href="https://spacehomeliving.myshopify.com/products/smart-automated-motorised-roller-blinds-2"/>
     <title>Smart Automated Motorised Roller Blinds</title>
     <s:type>roller blinds</s:type>
     <s:vendor>SpaceHomeLiving</s:vendor>
@@ -27,7 +27,7 @@
         <strong>Type: </strong>roller blinds<br>
         <strong>Price: </strong>
             63.00 - 320.00
-            <a href="https://spacehomeliving.com/products/smart-automated-motorised-roller-blinds-2">(8 variants)</a>
+            <a href="https://spacehomeliving.myshopify.com/products/smart-automated-motorised-roller-blinds-2">(8 variants)</a>
       </p>
     </td>
   </tr>
@@ -43,56 +43,56 @@
     <s:tag>rollerblinds</s:tag>
     <s:tag>smartcurtain</s:tag>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169733976374</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169733976374</id>
       <title>Fabric A $/Sqm</title>
       <s:price currency="SGD">72.00</s:price>
       <s:sku></s:sku>
       <s:grams>500</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169733976374</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169733976374</id>
       <title>Fabric B $/Sqm</title>
       <s:price currency="SGD">65.00</s:price>
       <s:sku></s:sku>
       <s:grams>500</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169733976374</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169733976374</id>
       <title>Fabric C $/Sqm</title>
       <s:price currency="SGD">63.00</s:price>
       <s:sku></s:sku>
       <s:grams>500</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169733976374</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169733976374</id>
       <title>Fabric D $/Sqm</title>
       <s:price currency="SGD">70.00</s:price>
       <s:sku></s:sku>
       <s:grams>500</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169733976374</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169733976374</id>
       <title>Fabric E $/Sqm</title>
       <s:price currency="SGD">78.00</s:price>
       <s:sku></s:sku>
       <s:grams>500</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169733976374</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169733976374</id>
       <title>Tuya Cordless Motor</title>
       <s:price currency="SGD">242.88</s:price>
       <s:sku></s:sku>
       <s:grams>500</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169733976374</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169733976374</id>
       <title>Remote Cordless Motor</title>
       <s:price currency="SGD">285.12</s:price>
       <s:sku></s:sku>
       <s:grams>500</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169733976374</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169733976374</id>
       <title>Aqara Smart Motor</title>
       <s:price currency="SGD">320.00</s:price>
       <s:sku></s:sku>
@@ -100,10 +100,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://spacehomeliving.com/products/9169675911478</id>
+    <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
     <published>2024-03-19T16:36:58+08:00</published>
     <updated>2024-03-19T16:36:58+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://spacehomeliving.com/products/smart-motorised-automated-electric-curtain-track"/>
+    <link rel="alternate" type="text/html" href="https://spacehomeliving.myshopify.com/products/smart-motorised-automated-electric-curtain-track"/>
     <title>Smart Motorised Automated Electric Curtain Track</title>
     <s:type>curtaintrack</s:type>
     <s:vendor>SpaceHomeLiving</s:vendor>
@@ -118,7 +118,7 @@
         <strong>Type: </strong>curtaintrack<br>
         <strong>Price: </strong>
             174.60 - 727.50
-            <a href="https://spacehomeliving.com/products/smart-motorised-automated-electric-curtain-track">(40 variants)</a>
+            <a href="https://spacehomeliving.myshopify.com/products/smart-motorised-automated-electric-curtain-track">(40 variants)</a>
       </p>
     </td>
   </tr>
@@ -133,280 +133,280 @@
     <s:tag>curtaintrack</s:tag>
     <s:tag>smartcurtain</s:tag>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>3m Track with Installation / Tuya Smart + Remote</title>
       <s:price currency="SGD">426.80</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>3m Track with Installation / Aquara Zigbee Wired</title>
       <s:price currency="SGD">504.40</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>3m Track with Installation / Aquara B1 Cordless</title>
       <s:price currency="SGD">552.90</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>3m Track with Installation / Yeelight A1</title>
       <s:price currency="SGD">465.60</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>3m Track with Installation / Without Motor</title>
       <s:price currency="SGD">271.60</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>4m Track with Installation / Tuya Smart + Remote</title>
       <s:price currency="SGD">485.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>4m Track with Installation / Aquara Zigbee Wired</title>
       <s:price currency="SGD">562.60</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>4m Track with Installation / Aquara B1 Cordless</title>
       <s:price currency="SGD">611.10</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>4m Track with Installation / Yeelight A1</title>
       <s:price currency="SGD">523.80</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>4m Track with Installation / Without Motor</title>
       <s:price currency="SGD">329.80</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>5m Track with Installation / Tuya Smart + Remote</title>
       <s:price currency="SGD">543.20</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>5m Track with Installation / Aquara Zigbee Wired</title>
       <s:price currency="SGD">620.80</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>5m Track with Installation / Aquara B1 Cordless</title>
       <s:price currency="SGD">669.30</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>5m Track with Installation / Yeelight A1</title>
       <s:price currency="SGD">582.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>5m Track with Installation / Without Motor</title>
       <s:price currency="SGD">388.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>6m Track with Installation / Tuya Smart + Remote</title>
       <s:price currency="SGD">601.40</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>6m Track with Installation / Aquara Zigbee Wired</title>
       <s:price currency="SGD">679.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>6m Track with Installation / Aquara B1 Cordless</title>
       <s:price currency="SGD">727.50</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>6m Track with Installation / Yeelight A1</title>
       <s:price currency="SGD">640.20</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>6m Track with Installation / Without Motor</title>
       <s:price currency="SGD">446.20</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>3m Track without Installation / Tuya Smart + Remote</title>
       <s:price currency="SGD">329.80</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>3m Track without Installation / Aquara Zigbee Wired</title>
       <s:price currency="SGD">407.40</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>3m Track without Installation / Aquara B1 Cordless</title>
       <s:price currency="SGD">455.90</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>3m Track without Installation / Yeelight A1</title>
       <s:price currency="SGD">368.60</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>3m Track without Installation / Without Motor</title>
       <s:price currency="SGD">174.60</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>4m Track without Installation / Tuya Smart + Remote</title>
       <s:price currency="SGD">388.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>4m Track without Installation / Aquara Zigbee Wired</title>
       <s:price currency="SGD">465.60</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>4m Track without Installation / Aquara B1 Cordless</title>
       <s:price currency="SGD">514.10</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>4m Track without Installation / Yeelight A1</title>
       <s:price currency="SGD">426.80</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>4m Track without Installation / Without Motor</title>
       <s:price currency="SGD">232.80</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>5m Track without Installation / Tuya Smart + Remote</title>
       <s:price currency="SGD">446.20</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>5m Track without Installation / Aquara Zigbee Wired</title>
       <s:price currency="SGD">523.80</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>5m Track without Installation / Aquara B1 Cordless</title>
       <s:price currency="SGD">572.30</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>5m Track without Installation / Yeelight A1</title>
       <s:price currency="SGD">485.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>5m Track without Installation / Without Motor</title>
       <s:price currency="SGD">291.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>6m Track without Installation / Tuya Smart + Remote</title>
       <s:price currency="SGD">504.40</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>6m Track without Installation / Aquara Zigbee Wired</title>
       <s:price currency="SGD">582.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>6m Track without Installation / Aquara B1 Cordless</title>
       <s:price currency="SGD">630.50</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>6m Track without Installation / Yeelight A1</title>
       <s:price currency="SGD">543.20</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9169675911478</id>
+      <id>https://spacehomeliving.myshopify.com/products/9169675911478</id>
       <title>6m Track without Installation / Without Motor</title>
       <s:price currency="SGD">349.20</s:price>
       <s:sku></s:sku>
@@ -414,10 +414,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://spacehomeliving.com/products/9160619229494</id>
+    <id>https://spacehomeliving.myshopify.com/products/9160619229494</id>
     <published>2024-03-14T15:50:07+08:00</published>
     <updated>2024-03-14T15:50:07+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://spacehomeliving.com/products/smart-automated-venetian-blinds"/>
+    <link rel="alternate" type="text/html" href="https://spacehomeliving.myshopify.com/products/smart-automated-venetian-blinds"/>
     <title>Smart Automated Outdoor Zip Blinds</title>
     <s:type>zipblind</s:type>
     <s:vendor>SpaceHomeLiving</s:vendor>
@@ -432,7 +432,7 @@
         <strong>Type: </strong>zipblind<br>
         <strong>Price: </strong>
             197.80 - 776.00
-            <a href="https://spacehomeliving.com/products/smart-automated-venetian-blinds">(6 variants)</a>
+            <a href="https://spacehomeliving.myshopify.com/products/smart-automated-venetian-blinds">(6 variants)</a>
       </p>
     </td>
   </tr>
@@ -450,42 +450,42 @@
     <s:tag>smartcurtain</s:tag>
     <s:tag>zipblind</s:tag>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9160619229494</id>
+      <id>https://spacehomeliving.myshopify.com/products/9160619229494</id>
       <title>5% Openness $/Sqm</title>
       <s:price currency="SGD">197.80</s:price>
       <s:sku>100</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9160619229494</id>
+      <id>https://spacehomeliving.myshopify.com/products/9160619229494</id>
       <title>3% Openness $/Sqm</title>
       <s:price currency="SGD">215.00</s:price>
       <s:sku>105</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9160619229494</id>
+      <id>https://spacehomeliving.myshopify.com/products/9160619229494</id>
       <title>1% Openness $/Sqm</title>
       <s:price currency="SGD">220.40</s:price>
       <s:sku>110</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9160619229494</id>
+      <id>https://spacehomeliving.myshopify.com/products/9160619229494</id>
       <title>Dooya Motor</title>
       <s:price currency="SGD">388.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9160619229494</id>
+      <id>https://spacehomeliving.myshopify.com/products/9160619229494</id>
       <title>AOK Motor</title>
       <s:price currency="SGD">504.40</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9160619229494</id>
+      <id>https://spacehomeliving.myshopify.com/products/9160619229494</id>
       <title>Somfy Motor</title>
       <s:price currency="SGD">776.00</s:price>
       <s:sku></s:sku>
@@ -493,10 +493,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://spacehomeliving.com/products/9160406204726</id>
+    <id>https://spacehomeliving.myshopify.com/products/9160406204726</id>
     <published>2024-03-14T12:39:25+08:00</published>
     <updated>2024-03-14T12:39:25+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://spacehomeliving.com/products/dooya-remote-control"/>
+    <link rel="alternate" type="text/html" href="https://spacehomeliving.myshopify.com/products/dooya-remote-control"/>
     <title>Dooya Remote Control</title>
     <s:type>remotecontrol</s:type>
     <s:vendor>SpaceHomeLiving</s:vendor>
@@ -511,7 +511,7 @@
         <strong>Type: </strong>remotecontrol<br>
         <strong>Price: </strong>
             25.00 - 38.00
-            <a href="https://spacehomeliving.com/products/dooya-remote-control">(3 variants)</a>
+            <a href="https://spacehomeliving.myshopify.com/products/dooya-remote-control">(3 variants)</a>
       </p>
     </td>
   </tr>
@@ -525,21 +525,21 @@
     <s:tag>accessories</s:tag>
     <s:tag>remotecontrol</s:tag>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9160406204726</id>
+      <id>https://spacehomeliving.myshopify.com/products/9160406204726</id>
       <title>DC2700 Single Channel</title>
       <s:price currency="SGD">25.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9160406204726</id>
+      <id>https://spacehomeliving.myshopify.com/products/9160406204726</id>
       <title>DC2760 Duo Channel</title>
       <s:price currency="SGD">30.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9160406204726</id>
+      <id>https://spacehomeliving.myshopify.com/products/9160406204726</id>
       <title>DC2702 15 Channel</title>
       <s:price currency="SGD">38.00</s:price>
       <s:sku></s:sku>
@@ -547,10 +547,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://spacehomeliving.com/products/9159013400886</id>
+    <id>https://spacehomeliving.myshopify.com/products/9159013400886</id>
     <published>2024-03-13T16:57:39+08:00</published>
     <updated>2024-03-13T16:57:39+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://spacehomeliving.com/products/venetian-blinds"/>
+    <link rel="alternate" type="text/html" href="https://spacehomeliving.myshopify.com/products/venetian-blinds"/>
     <title>Smart Automated Venetian Blinds</title>
     <s:type>venetian blind</s:type>
     <s:vendor>SpaceHomeLiving</s:vendor>
@@ -565,7 +565,7 @@
         <strong>Type: </strong>venetian blind<br>
         <strong>Price: </strong>
             108.00 - 288.00
-            <a href="https://spacehomeliving.com/products/venetian-blinds">(7 variants)</a>
+            <a href="https://spacehomeliving.myshopify.com/products/venetian-blinds">(7 variants)</a>
       </p>
     </td>
   </tr>
@@ -581,49 +581,49 @@
     <s:tag>smartcurtain</s:tag>
     <s:tag>venetianblind</s:tag>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9159013400886</id>
+      <id>https://spacehomeliving.myshopify.com/products/9159013400886</id>
       <title>3.5cm Timber $/Sqm</title>
       <s:price currency="SGD">144.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9159013400886</id>
+      <id>https://spacehomeliving.myshopify.com/products/9159013400886</id>
       <title>3.5cm PVC $/Sqm</title>
       <s:price currency="SGD">120.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9159013400886</id>
+      <id>https://spacehomeliving.myshopify.com/products/9159013400886</id>
       <title>5cm Timber $/Sqm</title>
       <s:price currency="SGD">160.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9159013400886</id>
+      <id>https://spacehomeliving.myshopify.com/products/9159013400886</id>
       <title>5cm PVC $/Sqm</title>
       <s:price currency="SGD">144.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9159013400886</id>
+      <id>https://spacehomeliving.myshopify.com/products/9159013400886</id>
       <title>Dooya Motor</title>
       <s:price currency="SGD">252.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9159013400886</id>
+      <id>https://spacehomeliving.myshopify.com/products/9159013400886</id>
       <title>AOK Tuya Motor</title>
       <s:price currency="SGD">288.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9159013400886</id>
+      <id>https://spacehomeliving.myshopify.com/products/9159013400886</id>
       <title>Installation</title>
       <s:price currency="SGD">108.00</s:price>
       <s:sku></s:sku>
@@ -631,10 +631,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://spacehomeliving.com/products/9158828949814</id>
+    <id>https://spacehomeliving.myshopify.com/products/9158828949814</id>
     <published>2024-03-13T15:12:29+08:00</published>
     <updated>2024-03-13T15:12:29+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://spacehomeliving.com/products/zebra-blinds"/>
+    <link rel="alternate" type="text/html" href="https://spacehomeliving.myshopify.com/products/zebra-blinds"/>
     <title>Smart Automated Motorised Zebra Blinds</title>
     <s:type>zebra blinds</s:type>
     <s:vendor>SpaceHomeLiving</s:vendor>
@@ -649,7 +649,7 @@
         <strong>Type: </strong>zebra blinds<br>
         <strong>Price: </strong>
             80.60 - 332.64
-            <a href="https://spacehomeliving.com/products/zebra-blinds">(6 variants)</a>
+            <a href="https://spacehomeliving.myshopify.com/products/zebra-blinds">(6 variants)</a>
       </p>
     </td>
   </tr>
@@ -664,42 +664,42 @@
     <s:tag>smartcurtain</s:tag>
     <s:tag>zebrablinds</s:tag>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9158828949814</id>
+      <id>https://spacehomeliving.myshopify.com/products/9158828949814</id>
       <title>High % Coverage Fabric $/Sqm</title>
       <s:price currency="SGD">93.00</s:price>
       <s:sku></s:sku>
       <s:grams>500</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9158828949814</id>
+      <id>https://spacehomeliving.myshopify.com/products/9158828949814</id>
       <title>Low % Coverage Fabric $/Sqm</title>
       <s:price currency="SGD">80.60</s:price>
       <s:sku></s:sku>
       <s:grams>500</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9158828949814</id>
+      <id>https://spacehomeliving.myshopify.com/products/9158828949814</id>
       <title>Tuya Smart Motor</title>
       <s:price currency="SGD">242.88</s:price>
       <s:sku></s:sku>
       <s:grams>500</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9158828949814</id>
+      <id>https://spacehomeliving.myshopify.com/products/9158828949814</id>
       <title>Tuya Cordless Motor</title>
       <s:price currency="SGD">285.12</s:price>
       <s:sku></s:sku>
       <s:grams>500</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9158828949814</id>
+      <id>https://spacehomeliving.myshopify.com/products/9158828949814</id>
       <title>Remote Cordless Motor</title>
       <s:price currency="SGD">230.40</s:price>
       <s:sku></s:sku>
       <s:grams>500</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://spacehomeliving.com/products/9158828949814</id>
+      <id>https://spacehomeliving.myshopify.com/products/9158828949814</id>
       <title>Aqara Smart Motor</title>
       <s:price currency="SGD">332.64</s:price>
       <s:sku></s:sku>
